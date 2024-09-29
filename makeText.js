@@ -33,8 +33,3 @@ readData(path, (data) => {
 
 console.log(argv)
 
-// if (path.startsWith("http")) {
-//     readFile(path, outputFileName)
-// } else {
-//     readURL(path, outputFileName)
-// }
